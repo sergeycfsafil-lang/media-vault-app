@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Медиа Хранилище",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Хранилище",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Приложение для хранения фото и видео",
+  "id": "media-vault"
+}
