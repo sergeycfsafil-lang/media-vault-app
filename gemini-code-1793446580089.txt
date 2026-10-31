@@ -1,0 +1,5 @@
+media-vault-app/
+├── index.html
+├── manifest.json
+├── sw.js
+└── icon-512.png
